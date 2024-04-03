@@ -1,1 +1,3 @@
-# asics_ckecker
+# ASICs ckecker
+
+My home project for ASICs status tracking
